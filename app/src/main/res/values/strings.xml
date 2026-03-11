@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">SimpleLayout</string> <string name="enable_notifications">Habilitar Notificações</string> <string name="insert_name_label">Insira seu nome:</string> <string name="insert_name_hint">Digite seu nome aqui</string> <string name="status_label">Status:</string> <string name="status_value">Notificações Ativadas</string> <string name="message_label">Mensagem:</string> <string name="message_value">Bem vindo ao Kotlin!</string> <string name="btn_send">ENVIAR</string>
+</resources>
